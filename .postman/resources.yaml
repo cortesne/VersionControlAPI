@@ -1,0 +1,6 @@
+# Use this workspace to collaborate
+workspace:
+  id: 0655327f-9ec0-404e-8746-3b8eb628c789
+localResources:
+  specs:
+    - ..\VersionControlAPI\obj\Debug\net10.0\EndpointInfo\VersionControlAPI.json
